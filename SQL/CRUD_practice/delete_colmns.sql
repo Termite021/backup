@@ -1,0 +1,1 @@
+delete from addresslist where user_id="1";
