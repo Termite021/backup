@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/Users/user/internous/backup/java/.metadata/.plugins/org.eclipse.jdt.core
+1182561080.index
+3934471789.index

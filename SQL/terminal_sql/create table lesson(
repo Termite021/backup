@@ -1,0 +1,2 @@
+create table lesson(
+id int not null primary key)

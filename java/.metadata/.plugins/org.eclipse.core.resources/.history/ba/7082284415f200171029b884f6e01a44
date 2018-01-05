@@ -1,0 +1,13 @@
+
+public class Lesson4 {
+	public static void main(String[] args){
+
+	int a =2;
+
+	String b = a % 2 == 0 ? "even" : "odd";
+	System.out.println(b);
+
+
+	}
+}
+
