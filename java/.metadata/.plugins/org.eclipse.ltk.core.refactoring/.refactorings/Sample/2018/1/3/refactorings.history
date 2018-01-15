@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="パッケージ名 &apos;ip.co.internous.action&apos; を &apos;jp.co.internous.action&apos; に変更します&#x0A;- 元のプロジェクト: &apos;Sample&apos;&#x0A;- オリジナル要素: &apos;Sample/src/ip.co.internous.action&apos;&#x0A;- 名前変更済み要素: &apos;Sample/src/jp.co.internous.action&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="パッケージ名 &apos;ip.co.internous.action&apos; を変更します" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ip.co.internous.action" name="jp.co.internous.action" qualified="false" references="true" stamp="1516011546281" textual="false" version="1.0"/>
+</session>
