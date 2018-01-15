@@ -1,0 +1,17 @@
+
+public interface Mp3Player {
+
+	public abstract play(){
+		System.out.println("play");
+	}
+	public abstract stop(){
+		System.out.println("stop");
+	}
+	public abstract next(){
+		System.out.println("next");
+	}
+	public abstract back(){
+		System.out.println("back");
+	}
+
+}

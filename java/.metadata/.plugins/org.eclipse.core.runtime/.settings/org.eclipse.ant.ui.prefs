@@ -1,4 +1,8 @@
-useAnnotationsPrefPage=true
 eclipse.preferences.version=1
-#workspacejre=true
+problem_classpath=warning
+problem_imports=warning
+problem_properties=ignore
+problem_security=warning
+problem_tasks=ignore
+useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

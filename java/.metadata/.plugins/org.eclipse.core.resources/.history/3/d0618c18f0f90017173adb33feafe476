@@ -1,0 +1,10 @@
+
+public interface Mp3Player {
+
+	public abstract play();
+	public abstract stop();
+	public abstract next();
+	public abstract back();
+
+
+}

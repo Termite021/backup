@@ -1,0 +1,17 @@
+
+public class SmartPhone extends Mp3Player {
+
+	public void call(){
+		System.out.println("call");
+	}
+	public void mail(){
+		System.out.println("mail");
+	}
+	public void photo(){
+		System.out.println("photo");
+	}
+	public void internet(){
+		System.out.println("internet");
+	}
+
+}
